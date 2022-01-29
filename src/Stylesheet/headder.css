@@ -1,0 +1,15 @@
+.header{
+    height: 11vh;
+    width: 100%;
+    text-align: center;
+    
+}
+.header h2{
+    text-transform: capitalizes;
+    color: cadetblue;
+    justify-items: center;
+    color: #ffffff;
+    /* padding: 2rem; */
+    margin: 2rem;
+   
+}
