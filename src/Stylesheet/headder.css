@@ -2,6 +2,7 @@
     height: 11vh;
     width: 100%;
     text-align: center;
+    background-color: blue;
     
 }
 .header h2{
@@ -10,6 +11,6 @@
     justify-items: center;
     color: #ffffff;
     /* padding: 2rem; */
-    margin: 2rem;
+    padding: 1rem;
    
 }
